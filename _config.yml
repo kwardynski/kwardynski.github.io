@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 title: Kacper Wardynski
 description: My Cool Website
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
