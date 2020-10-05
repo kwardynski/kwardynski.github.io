@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Second Page"
 permalink: /second-page/
+---
 
 # Title
 ## Hello
