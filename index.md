@@ -1,6 +1,6 @@
 
 # About Me:
-[LinkedIn](https://www.linkedin.com/in/kacper-wardynski-735274117)
+[LinkedIn](https://www.linkedin.com/in/kacper-wardynski-735274117)<br />
 [Resume](https://kwardyski.github.io/resume-placeholder/)
 
 
