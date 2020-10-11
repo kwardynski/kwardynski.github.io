@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-slate
-layout: page
+layout: default
 title: "Laundry Status"
 permalink: /laundry-status/
 ---
