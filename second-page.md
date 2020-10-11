@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Second Page"
 permalink: /second-page/
 ---
