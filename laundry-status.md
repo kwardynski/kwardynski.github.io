@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-slate
 layout: page
 title: "Laundry Status"
 permalink: /laundry-status/
