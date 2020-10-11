@@ -8,8 +8,6 @@ permalink: /obdii-dashboard/
 # OBDII Digital Dashbaord
 ## Arduino Project
 
-DESCRIPTION GOES HERE
-
 ## HARDWARE
 - Arduino Mega
 - TFT Touch Screen Sheield 
