@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-slate
-layout: page
+layout: default
 title: "OBDII Digital Dashboard"
 permalink: /obdii-dashboard/
 ---
