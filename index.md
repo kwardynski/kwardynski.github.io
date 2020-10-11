@@ -1,7 +1,7 @@
 
 # About Me:
-[LinkedIn](https://www.linkedin.com/in/kacper-wardynski-735274117
-[Resume](https://kwardyski.github.io/resume_placeholder/)
+[LinkedIn](https://www.linkedin.com/in/kacper-wardynski-735274117)
+[Resume](https://kwardyski.github.io/resume-placeholder/)
 
 
 # Projects:
