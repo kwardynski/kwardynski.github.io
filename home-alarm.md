@@ -5,8 +5,8 @@ title: "Home Alarm System"
 permalink: /home-alarm/
 ---
 
-## Home Alarm System
-# Arduino Project
+# Home Alarm System
+ Arduino Project
 
 ## HARDWARE
 - Arduino Uno
