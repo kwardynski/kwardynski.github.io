@@ -3,6 +3,7 @@ theme: jekyll-theme-slate
 layout: default
 title: "Home Alarm System"
 permalink: /home-alarm/
+---
 
 ## Home Alarm System
 # Arduino Project
