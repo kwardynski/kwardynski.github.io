@@ -1,6 +1,8 @@
 theme: jekyll-theme-slate
 title: Kacper Wardynski
 description: Under Construction | Projects Coming Soon!
+
+defaults:
   - scope:
       path: ""
     values:
