@@ -6,7 +6,8 @@ permalink: /home-alarm/
 ---
 
 # Home Alarm System
- Arduino Project
+A simple Arduino based Alarm<br>
+This alarm uses an ultrasonic sensor as an invisible "trip wire", once triggered will give the intruder 3 attempts within 30 seconds to disarm. If disarming fails, a buzzer will go off and an SMS will be sent to inform you that an alarm event has occured.
 
 
 ## HARDWARE
