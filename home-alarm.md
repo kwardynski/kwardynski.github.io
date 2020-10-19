@@ -17,3 +17,12 @@ This alarm uses an ultrasonic sensor as an invisible "trip wire", once triggered
 - [ENC28J60 Ethernet Adapter](https://www.amazon.ca/ENC28J60-Ethernet-Network-Module-Arduino/dp/B07K2TN8Q6/ref=sr_1_3?dchild=1&keywords=arduino+ethernet&qid=1603059505&sr=8-3)
 - [128x32 I2C OLED Display](https://www.amazon.ca/DSD-Tech-OLED-Display-Arduino/dp/B07D9H83R4/ref=sr_1_3_sspa?dchild=1&keywords=arduino+oled&qid=1603059552&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTzdYUlpDOU9PVDAzJmVuY3J5cHRlZElkPUEwNjQ0NDMwMUlBVkJPVFJaSFhaUCZlbmNyeXB0ZWRBZElkPUEwMjA2NzYyMlNIODZEVDZaMkpTRyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 - Jumper Wires / Breadboard / Ethernet Cable etc.
+
+## SETUP
+<br>
+
+## THE CODE
+<br>
+
+## BUILD BREAKDOWN
+<br>
