@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Kacper Wardynski
-  avatar: images/personal/profile.jpg
+  avatar: profile.jpg
   bio: "If it ain't broke, fix it 'till it is."
   email: kacper.wardynski@gmail.com
   # Do not include the @ symbol in your Twitter username
