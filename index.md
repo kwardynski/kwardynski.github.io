@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Here are some things I like to spend my free time on.
+Here are some things I like to spend my free time on:
 
 #### Projects:
 - [Inky pHat Pi-hole Display](https://github.com/kwardynski/pihole_with_inkyphat_display) - Raspberry Pi / Python
