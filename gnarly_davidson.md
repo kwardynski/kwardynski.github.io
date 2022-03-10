@@ -1,6 +1,7 @@
 ---
-layout: default
 permalink: /gnarly-davidson/
+title: "Gnarly Davidson"
+author_profile: true
 ---
 
 # Gnarly Davidson Adventures
