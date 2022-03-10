@@ -3,6 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
+I'm a reformed Bartender turned Software Developer with an appetite for broken old American vehicles.\
 Here are some things I like to spend my free time on:
 
 #### Projects:
