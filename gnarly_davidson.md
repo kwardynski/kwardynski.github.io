@@ -7,6 +7,15 @@ author_profile: true
 ## A Deep dive into financial ruin and borderline insanity
 ![There should be a cool picture here](images/harley_davidson/ride_6.jpg)
 
+
+TEST
+
+<a href="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N"><img src="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N" style="width: 200px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+
+TEST
+
+
 ### The Goods
 - [Gittin 'Er Home](#id-section1)
 - [Carburetor Instigator](#id-section2)
