@@ -43,14 +43,20 @@ Ok so step one in addressing the bed-wetting issue is pulling apart the carb and
 
 I pulled the carb, ran to Canadian Tire for some carb cleaner, made a quick stop at Trev Deely for a carb rebuild kit then headed to the shop at my work to pull it apart and inspect it. Here is where I quickly came to realize that a poorly adjusted float is going to be the **least** of my worries...
 
-<a href="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea"><img src="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea" style="width: 360px; max-width: 100%; height: auto" title="Carb removed" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea"><img src="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea" style="width: 360px; max-width: 100%; height: auto" title="This doesn't look good" /></a>
 
 The float pin (the little round metal dot right above the screw in the middle of the above picture) is meant to be removed **ONE WAY ONLY** in these CV carbs, there's warnings all over the service manuals and big bold arrows cast into the body of the carburator to show you which way it goes. Whoever was previously messing with this carb had obviously ignored these warnings and either tried to tap it out or install it the wrong way - the evidence of which can be seen in the form of the hairline crack on the right-most float post. The moment one of these posts breaks - the carburetor becomes a piece of scrap metal.\
 I tried to remove the pin as delicately as I possibly could, but the damage had already been done and the post snapped on me almost immediately...
 
-<a href="https://drive.google.com/uc?export=view&id=1TX9BN-NbxqF1ZsjMj-496NqAuhTcKSnk"><img src="https://drive.google.com/uc?export=view&id=1TX9BN-NbxqF1ZsjMj-496NqAuhTcKSnk" style="width: 360px; max-width: 100%; height: auto" title="Carb removed" /></a>
+<a href="https://drive.google.com/uc?export=view&id=1TX9BN-NbxqF1ZsjMj-496NqAuhTcKSnk"><img src="https://drive.google.com/uc?export=view&id=1TX9BN-NbxqF1ZsjMj-496NqAuhTcKSnk" style="width: 360px; max-width: 100%; height: auto" title="Shit..." /></a>
 
-After a string of colorful words and retrieving the tools I threw across the shop I hit the internet to see if I could buy a suitable replacement part, but an initial search turned up only expensive upgrades, cheap knock-offs on Amazon with poor reviews, and parts from the US on Ebay that would take weeks to ship, so I did everything a shit hobby mechanic would do - I went back to Canadian Tire and bought some JB Weld.
+After a string of colorful words and retrieving the tools I threw across the shop I hit the internet to see if I could buy a suitable replacement part. My initial search turned up only expensive upgrades, cheap knock-offs on Amazon with poor reviews, and parts from the US on Ebay that would take weeks to ship, so I did everything a shit hobby mechanic would do - I went back to Canadian Tire and bought some JB Weld. Spoiler alert - it didn't work.
+
+<a href="https://drive.google.com/uc?export=view&id=1TkJ-muP5YlvZc3ItXZFrAAjNSPRZu97w"><img src="https://drive.google.com/uc?export=view&id=1TkJ-muP5YlvZc3ItXZFrAAjNSPRZu97w" style="width: 360px; max-width: 100%; height: auto" title="Before (and also after) JB Weld" /></a> <a href="https://drive.google.com/uc?export=view&id=1U-K7jrMl4aG5HITkNt01fHx-co50HFHD"><img src="https://drive.google.com/uc?export=view&id=1U-K7jrMl4aG5HITkNt01fHx-co50HFHD" style="width: 360px; max-width: 100%; height: auto" title="This surely will not work" /></a>
+
+---
+
+MORE TO COME
 
 
 
