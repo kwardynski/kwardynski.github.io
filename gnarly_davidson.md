@@ -5,9 +5,7 @@ author_profile: true
 ---
 
 ## A Deep dive into financial ruin and borderline insanity
-<p align="center">
-  <a href="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N"><img src="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N" style="width: 320px; max-width: 100%; height: auto" title="Sleaze Disease." /></a>
-  </p>
+<a href="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N"><img src="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N" style="width: 320px; max-width: 100%; height: auto" title="Sleaze Disease." /></a>
 
 ### Notable Modifications
 - Zipper's Performance 1200cc big bore kit
@@ -63,7 +61,9 @@ I tried to remove the pin as delicately as I possibly could, but the damage had 
 
 After a string of colorful words and retrieving the tools I threw across the shop I hit the internet to see if I could buy a suitable replacement part. My initial search turned up only expensive upgrades, cheap knock-offs on Amazon with poor reviews, and parts from the US on Ebay that would take weeks to ship, so I did everything a shit hobby mechanic would do - I went back to Canadian Tire and bought some JB Weld. Spoiler alert - it didn't work.
 
-<a href="https://drive.google.com/uc?export=view&id=1TkJ-muP5YlvZc3ItXZFrAAjNSPRZu97w"><img src="https://drive.google.com/uc?export=view&id=1TkJ-muP5YlvZc3ItXZFrAAjNSPRZu97w" style="width: 280px; max-width: 100%; height: auto" title="Before (and also after) JB Weld" /></a> <a href="https://drive.google.com/uc?export=view&id=1U-K7jrMl4aG5HITkNt01fHx-co50HFHD"><img src="https://drive.google.com/uc?export=view&id=1U-K7jrMl4aG5HITkNt01fHx-co50HFHD" style="width: 280px; max-width: 100%; height: auto" title="This surely will not work" /></a>
+<p align="center">
+    <a href="https://drive.google.com/uc?export=view&id=1TkJ-muP5YlvZc3ItXZFrAAjNSPRZu97w"><img src="https://drive.google.com/uc?export=view&id=1TkJ-muP5YlvZc3ItXZFrAAjNSPRZu97w" style="width: 280px; max-width: 100%; height: auto" title="Before (and also after) JB Weld" /></a> <a href="https://drive.google.com/uc?export=view&id=1U-K7jrMl4aG5HITkNt01fHx-co50HFHD"><img src="https://drive.google.com/uc?export=view&id=1U-K7jrMl4aG5HITkNt01fHx-co50HFHD" style="width: 280px; max-width: 100%; height: auto" title="This surely will not work" /></a>
+</p>
 
 ---
 
