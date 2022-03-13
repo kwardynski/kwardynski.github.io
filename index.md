@@ -22,5 +22,5 @@ Here are some things I like to spend my free time on:
 - [Daily Coding Problems](https://github.com/kwardynski/daily_coding_problems)  
 
 ---
-#### "Hobbies":
-- [Wrenching - '94 Harley-Davidson Sportster](https://kwardynski.github.io/gnarly-davidson/)   
+#### Wrenching:
+- ['94 Harley-Davidson Sportster](https://kwardynski.github.io/gnarly-davidson/)   
