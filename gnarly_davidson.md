@@ -7,8 +7,12 @@ author_profile: true
 ## A Deep dive into financial ruin and borderline insanity
 <a href="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N"><img src="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N" style="width: 320px; max-width: 100%; height: auto" title="Sleaze Disease." /></a>
 
+### Notable Modifications
+- Zipper's Performance 1200cc big bore kit
+- DANMOTO Highwayman 2-1 exhaust (with questionably installed heat wrap)
+- Biltwell Banana Solo Seat
 
-### The Goods
+### Pain and Pleasure 
 - [Gittin 'Er Home](#id-section1)
 - [Carburetor Instigator](#id-section2)
 
@@ -25,7 +29,7 @@ I'm not very good at taking pictures and record keeping, so the only pictures I 
 <a href="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW"><img src="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW" style="width: 600px; max-width: 100%; height: auto" title="QBert with his new roommate." /></a>
 \
 \
-The bike had a bit of a bed-wetting problem when I got it - fuel would just dump from the carburetor overflow hose if the petcock wasn't shut. I didn't think to close it when we were transporting the bike back home so the U-Haul trailer had a nice puddle of gasoline in it, and so did the parkade when I finally got home after returning the trailer. And so begins the long (expensive) uphill battle of getting this thing road-ready for the summer...
+The bike had a bit of a bed-wetting problem when I got it - fuel would just dump from the carburetor overflow hose if the petcock wasn't shut. I didn't think to close it when we were transporting the bike back home so the U-Haul trailer had a nice puddle of gasoline in it, and so did the parkade when I finally got home after returning the trailer. And so began the long (and expensive) uphill battle of getting this thing road-ready for the summer...
 
 
 ---
@@ -33,7 +37,21 @@ The bike had a bit of a bed-wetting problem when I got it - fuel would just dump
 <div id='id-section2'/>
 
 ## Carburetor Instigator
-Here we talk about how attempting to fix the carburetor kicked my ass for several weeks. Stay tuned.
+Ok so step one in addressing the bed-wetting issue is pulling apart the carb and inspecting the float level - if it's set too high the bowl will overfill, and therefore need to be drained through the overflow hose. I was _hoping_ it would be a simple adjustment but I quickly came to learn that when it comes to this bike it's usually worst case scenario.
+
+<a href="https://drive.google.com/uc?export=view&id=1TAJKLbutvsQYUlxnzV3a7b5R9Y36qWFB"><img src="https://drive.google.com/uc?export=view&id=1TAJKLbutvsQYUlxnzV3a7b5R9Y36qWFB" style="width: 360px; max-width: 100%; height: auto" title="Carb removed" /></a>
+
+I pulled the carb, ran to Canadian Tire for some carb cleaner, made a quick stop at Trev Deely for a carb rebuild kit then headed to the shop at my work to pull it apart and inspect it. Here is where I quickly came to realize that a poorly adjusted float is going to be the **least** of my worries...
+
+<a href="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea"><img src="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea" style="width: 360px; max-width: 100%; height: auto" title="Carb removed" /></a>
+
+The float pin (the little round metal dot right above the screw in the middle of the above picture) is meant to be removed **ONE WAY ONLY** in these CV carbs, there's warnings all over the service manuals and big bold arrows cast into the body of the carburator to show you which way it goes. Whoever was previously messing with this carb had obviously ignored these warnings and either tried to tap it out or install it the wrong way - the evidence of which can be seen in the form of the hairline crack on the right-most float post. The moment one of these posts breaks - the carburetor becomes a piece of scrap metal.\
+I tried to remove the pin as delicately as I possibly could, but the damage had already been done and the post snapped on me almost immediately...
+
+<a href="https://drive.google.com/uc?export=view&id=1TX9BN-NbxqF1ZsjMj-496NqAuhTcKSnk"><img src="https://drive.google.com/uc?export=view&id=1TX9BN-NbxqF1ZsjMj-496NqAuhTcKSnk" style="width: 360px; max-width: 100%; height: auto" title="Carb removed" /></a>
+
+After a string of colorful words and retrieving the tools I threw across the shop I hit the internet to see if I could buy a suitable replacement part, but an initial search turned up only expensive upgrades, cheap knock-offs on Amazon with poor reviews, and parts from the US on Ebay that would take weeks to ship, so I did everything a shit hobby mechanic would do - I went back to Canadian Tire and bought some JB Weld.
+
 
 
 
