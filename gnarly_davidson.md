@@ -21,7 +21,9 @@ In my most recent string of vehicular-inspired poor financial decisions, I bough
 \
 I'm not very good at taking pictures and record keeping, so the only pictures I have from that day are these two - when we got the bike back to my apartment and stuffed it in my small parkade space behind my car:\
 \
-![Lonely Bike](images/harley_davidson/first_night_home_1.jpg) ![Q50 with it's new roomie](images/harley_davidson/first_night_home_3.jpg)
+<a href="https://drive.google.com/uc?export=view&id=1SGuPZCpdU46kaSpXz0zVKLUrduifGTxF"><img src="https://drive.google.com/uc?export=view&id=1SGuPZCpdU46kaSpXz0zVKLUrduifGTxF" style="width: 600px; max-width: 100%; height: auto" title="First night home." /></a>
+
+<a href="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW"><img src="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW" style="width: 600px; max-width: 100%; height: auto" title="QBert with his new roommate." /></a>
 \
 \
 The bike had a bit of a bed-wetting problem when I got it - fuel would just dump from the carburetor overflow hose if the petcock wasn't shut. I didn't think to close it when we were transporting the bike back home so the U-Haul trailer had a nice puddle of gasoline in it, and so did the parkade when I finally got home after returning the trailer. And so begins the long (expensive) uphill battle of getting this thing road-ready for the summer...
