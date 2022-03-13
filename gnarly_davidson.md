@@ -21,17 +21,16 @@ author_profile: true
 <div id='id-section1'/>
 
 ## Gittin 'Er Home
-In my most recent string of vehicular-inspired poor financial decisions, I bought a 1994 Harley-Davidson Sportster, basically sight unseen from a dude out in Abbotsford. After work one day in February of 2021, I rented a U-Haul motorcycle trailer, hitched it to the back of my good friend Matt's Ranger, and we braved Lower Mainland rush hour traffic to go pick it up.\
-\
-I'm not very good at taking pictures and record keeping, so the only pictures I have from that day are these two - when we got the bike back to my apartment and stuffed it in my small parkade space behind my car:\
-\
+In my most recent string of vehicular-inspired poor financial decisions, I bought a 1994 Harley-Davidson Sportster, basically sight unseen from a dude out in Abbotsford. After work one day in February of 2021, I rented a U-Haul motorcycle trailer, hitched it to the back of my good friend Matt's Ranger, and we braved Lower Mainland rush hour traffic to go pick it up.<br/>
+I'm not very good at taking pictures and record keeping, so the only pictures I have from that day are these two - when we got the bike back to my apartment and stuffed it in my small parkade space behind my car:<br/>
+<br/>
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=view&id=1SGuPZCpdU46kaSpXz0zVKLUrduifGTxF"><img src="https://drive.google.com/uc?export=view&id=1SGuPZCpdU46kaSpXz0zVKLUrduifGTxF" style="width: 600px; max-width: 100%; height: auto" title="First night home." /></a>
   <a href="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW"><img src="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW" style="width: 600px; max-width: 100%; height: auto" title="QBert with his new roommate." /></a>
 </p>
-\
-\
+<br/>
+
 The bike had a bit of a bed-wetting problem when I got it - fuel would just dump from the carburetor overflow hose if the petcock wasn't shut. I didn't think to close it when we were transporting the bike back home so the U-Haul trailer had a nice puddle of gasoline in it, and so did the parkade when I finally got home after returning the trailer. And so began the long (and expensive) uphill battle of getting this thing road-ready for the summer...
 
 
@@ -52,7 +51,7 @@ I pulled the carb, ran to Canadian Tire for some carb cleaner, made a quick stop
   <a href="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea"><img src="https://drive.google.com/uc?export=view&id=1TChi3_lXqUX4AXrCY0YsOAKj9Uga0cea" style="width: 360px; max-width: 100%; height: auto" title="This doesn't look good" /></a>
 </p>
   
-The float pin (the little round metal dot right above the screw in the middle of the above picture) is meant to be removed **ONE WAY ONLY** in these CV carbs, there's warnings all over the service manuals and big bold arrows cast into the body of the carburator to show you which way it goes. Whoever was previously messing with this carb had obviously ignored these warnings and either tried to tap it out or install it the wrong way - the evidence of which can be seen in the form of the hairline crack on the right-most float post. The moment one of these posts breaks - the carburetor becomes a piece of scrap metal.\
+The float pin (the little round metal dot right above the screw in the middle of the above picture) is meant to be removed **ONE WAY ONLY** in these CV carbs, there's warnings all over the service manuals and big bold arrows cast into the body of the carburator to show you which way it goes. Whoever was previously messing with this carb had obviously ignored these warnings and either tried to tap it out or install it the wrong way - the evidence of which can be seen in the form of the hairline crack on the right-most float post. The moment one of these posts breaks - the carburetor becomes a piece of scrap metal.<br/>
 I tried to remove the pin as delicately as I possibly could, but the damage had already been done and the post snapped on me almost immediately...
 
 <p align="center">
