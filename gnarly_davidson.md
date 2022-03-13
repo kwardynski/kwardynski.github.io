@@ -22,7 +22,6 @@ In my most recent string of vehicular-inspired poor financial decisions, I bough
 I'm not very good at taking pictures and record keeping, so the only pictures I have from that day are these two - when we got the bike back to my apartment and stuffed it in my small parkade space behind my car:\
 \
 <a href="https://drive.google.com/uc?export=view&id=1SGuPZCpdU46kaSpXz0zVKLUrduifGTxF"><img src="https://drive.google.com/uc?export=view&id=1SGuPZCpdU46kaSpXz0zVKLUrduifGTxF" style="width: 600px; max-width: 100%; height: auto" title="First night home." /></a>
-
 <a href="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW"><img src="https://drive.google.com/uc?export=view&id=1SLYvm3RsxPZhHDbYKWvigM62229GCwTW" style="width: 600px; max-width: 100%; height: auto" title="QBert with his new roommate." /></a>
 \
 \
