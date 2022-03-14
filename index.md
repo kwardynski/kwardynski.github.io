@@ -23,4 +23,5 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Wrenching:
-- ['94 Harley-Davidson Sportster](https://kwardynski.github.io/gnarly-davidson/)   
+- ['94 Harley-Davidson Sportster](https://kwardynski.github.io/gnarly-davidson/)  
+
