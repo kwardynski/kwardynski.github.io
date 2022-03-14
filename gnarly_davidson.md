@@ -95,9 +95,11 @@ This part of the service was relatively painless - the hardest part was removing
 
 ## Kick Stand and Deliver
 The kickstand on this bike would not sit still when kicked up, it rattled against the frame and would basically drag during left turns. I decided to alleviate this security concern with a new cotter pin assembly, kickstand spring, and washers which I just got from the dealership. I leaned the bike against my parkade wall and removed the old kickstand to find a variety of issues with it:
+
 - There was no hair-pin in the cotter pin. The whole thing was held onto the bike just by friction and sheer luck.
 - The spring was no longer a spring, I could stretch it to limit with my hands.
-- There were no washers between the kickstand and the frame.
+- There were no washers between the kickstand and the frame.  
+
 Needless to say this was ALL WRONG so I installed the new parts using the "dime trick" which takes all the muscle work out of installing kickstand springs. Basically you stretch the spring using a bench vise and a screwdriver, then you put 6-8 dimes into the spring to keep it from compressing all the way back. Once you've hooked the spring into the frame and the kickstand, you just pull the dimes out with pliers. Voila.  
 Again I have no pictures of any of this so you'll just have to take my word for it and use your imagination.
 
