@@ -68,6 +68,7 @@ I tried about 3 times to re-assemble the post using JB weld - each attempt was l
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=view&id=1UH39dNwSIaSEiUVd4DcHS_-QX5YjRnki"><img src="https://drive.google.com/uc?export=view&id=1UH39dNwSIaSEiUVd4DcHS_-QX5YjRnki" style="width: 600px; max-width: 100%; height: auto" title="Scrub a dub-dub" /></a>
+
   <a href="https://drive.google.com/uc?export=view&id=1UWBYAPBmDUlZ4ZjBAC2O7nIeGj477e8z"><img src="https://drive.google.com/uc?export=view&id=1UWBYAPBmDUlZ4ZjBAC2O7nIeGj477e8z" style="width: 300px; max-width: 100%; height: auto" title="One of these things is not like the other" /></a> <a href="https://drive.google.com/uc?export=view&id=1UdYpg5QccPlsnQYiZF-Vu7FM-qSSjP8-"><img src="https://drive.google.com/uc?export=view&id=1UdYpg5QccPlsnQYiZF-Vu7FM-qSSjP8-" style="width: 300px; max-width: 100%; height: auto" title="Much better" /></a>
 </p>
 
