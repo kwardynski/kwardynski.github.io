@@ -17,6 +17,7 @@ author_profile: true
 - [Carburetor Instigator](#id-section2)
 - [No Room for Mistakes When You're Working on Brakes](#id-section3)
 - [Kick Stand and Deliver](#id-section4)
+- [Fishin' in the Transmission](#id-section5)
 
 ---
 
@@ -103,6 +104,60 @@ The kickstand on this bike would not sit still when kicked up, it rattled agains
 
 Needless to say this was ALL WRONG so I installed the new parts using the "dime trick" which takes all the muscle work out of installing kickstand springs. Basically you stretch the spring using a bench vise and a screwdriver, then you put 6-8 dimes into the spring to keep it from compressing all the way back. Once you've hooked the spring into the frame and the kickstand, you just pull the dimes out with pliers. Voila.  
 Again I have no pictures of any of this so you'll just have to take my word for it and use your imagination.
+
+
+---
+
+<div id='id-section5'/>
+
+## Fishin' in the Transmission
+So here I am - brakes are done, bike idles well (so I'm assuming it'll run well), it's registered and plated, and riding season is officially underway. Last thing that's left to do is a quick oil change for peace of mind and we'll be on the road. I head to my local Harley dealer for a couple pints of oil and a new filter. While I'm there the parts guy suggests that while I'm in the vicinity I might as well just do the primary oil as well so I buy the primary fluid, new gaskets and head home for what I expect to be a 30 minute job before I go for a ride in the afternoon.  
+Oil change goes smoothly - nice. The good luck runs out the moment I start to drain the primary fluid:
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1VT6I2KHG-fJJ0LOPBzrlQhF8S9nq-b8B"><img src="https://drive.google.com/uc?export=view&id=1VT6I2KHG-fJJ0LOPBzrlQhF8S9nq-b8B" style="width: 360px; max-width: 100%; height: auto" title="Kill me now." /></a>
+</p>
+
+There's a portion of some spring stuck to the drain plug - and only God himself knows where the other half of it is, and what sort of havoc it's wreaked on my transmission. I print off the transmission chapter from my service manual, order a [locking tool](https://www.amazon.ca/gp/product/B075S4YLGR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) so I can actually remove the sprokets, and head to Canadian Tire to get a breaker bar and the appropriate sockets needed to remove the clutch basket and engine sproket nuts. The locking tool arrives the next day and so begins the investigation:
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1V_vM8DsuwmonwxRYBmu-M3YsgDaV6saw"><img src="https://drive.google.com/uc?export=view&id=1V_vM8DsuwmonwxRYBmu-M3YsgDaV6saw" style="width: 600px; max-width: 100%; height: auto" title="Primary case removed." /></a>
+</p>
+
+Judging from the parts diagram below, I'm either missing spring #8 (shifter pawl spring) or the tiny spring visible just above #1 (Shift shaft assembly). 
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1IrmpUndu7v3Oz3K5gAE16Au16D_hsyVk"><img src="https://drive.google.com/uc?export=view&id=1IrmpUndu7v3Oz3K5gAE16Au16D_hsyVk" style="width: 600px; max-width: 100%; height: auto" title="Shift assembly diagram." /></a>
+</p>
+
+It's definitely not the pawl spring as that's there are in one piece - however there's an alarming amount of debris in this primary case. At this point I'm expecting my gears to be completely shredded.
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1VYTc_x_xu4Ny3_WnTAkgC3ZM30qwoPwa"><img src="https://drive.google.com/uc?export=view&id=1VYTc_x_xu4Ny3_WnTAkgC3ZM30qwoPwa" style="width: 360px; max-width: 100%; height: auto" title="Pawl spring intact." /></a>
+</p>
+
+Since the pawl spring is intact, next place to look is the shift detente spring - bingo, it's missing. You can see just to the left of the sproket where it _should_ be:
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1IrmpUndu7v3Oz3K5gAE16Au16D_hsyVk"><img src="https://drive.google.com/uc?export=view&id=1IrmpUndu7v3Oz3K5gAE16Au16D_hsyVk" style="width: 600px; max-width: 100%; height: auto" title="Detente spring - dead." /></a>
+</p>
+
+---
+
+**MORE TO COME**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
