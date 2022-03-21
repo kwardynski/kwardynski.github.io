@@ -139,7 +139,7 @@ It's definitely not the pawl spring as that's there are in one piece - however t
 Since the pawl spring is intact, next place to look is the shift detente spring - bingo, it's missing. You can see just to the left of the sproket where it _should_ be:
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=view&id=1IrmpUndu7v3Oz3K5gAE16Au16D_hsyVk"><img src="https://drive.google.com/uc?export=view&id=1IrmpUndu7v3Oz3K5gAE16Au16D_hsyVk" style="width: 600px; max-width: 100%; height: auto" title="Detente spring - dead." /></a>
+  <a href="https://drive.google.com/uc?export=view&id=1VeI0MxMvIcaxnSVPJIaofeQ9e_PVVRCv"><img src="https://drive.google.com/uc?export=view&id=1VeI0MxMvIcaxnSVPJIaofeQ9e_PVVRCv" style="width: 600px; max-width: 100%; height: auto" title="Detente spring - dead." /></a>
 </p>
 
 ---
