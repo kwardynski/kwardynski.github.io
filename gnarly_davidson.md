@@ -142,6 +142,27 @@ Since the pawl spring is intact, next place to look is the shift detente spring 
   <a href="https://drive.google.com/uc?export=view&id=1VeI0MxMvIcaxnSVPJIaofeQ9e_PVVRCv"><img src="https://drive.google.com/uc?export=view&id=1VeI0MxMvIcaxnSVPJIaofeQ9e_PVVRCv" style="width: 600px; max-width: 100%; height: auto" title="Detente spring - dead." /></a>
 </p>
 
+I make a call to my local dealer and they can get me a new spring in about a week, along with all the clips/pins which should be replaced whenever you pull the transmission. I decide to take advantage of this lead time and try to remove the sprokets so I can pull the transmission and inspect if for any damage that could have been caused by the spring and get a jump on any necessary repairs. Again this was one of those instances where the bike would decide to fight me _every step of the way_. I get the primary cover off, wedge the locking tool between the engine sproket, and the _moment_ I apply the smallest amount of force on the nut, the locking tool shatters:
+
+<p align="center">
+    <a href="https://drive.google.com/uc?export=view&id=1VgzhPwPlrWVGYuqohQFsLHAAw4UOgxXO"><img src="https://drive.google.com/uc?export=view&id=1VgzhPwPlrWVGYuqohQFsLHAAw4UOgxXO" style="width: 280px; max-width: 100%; height: auto" title="Nani?!?" /></a> <a href="https://drive.google.com/uc?export=view&id=1VhjR6m3W8WIuKpsfrb8p382rJ4FvMjP2"><img src="https://drive.google.com/uc?export=view&id=1VhjR6m3W8WIuKpsfrb8p382rJ4FvMjP2" style="width: 280px; max-width: 100%; height: auto" title="Ded..." /></a>
+</p>
+
+The service manual recomments a "genuine Harley-Davidson" part which can be used to lock the engine and clutch sprokets together, allowing you to actually loosen/tighten their respective nuts, and it even goes so far as to provide a part number - but none of the dealers from Vancouver to Regina carry it. There's also a plethora of forum posts and YouTube videos of people using wacky techniques in order to lock the two sprokets together so they can remove the primary assembly, ranging from using an old leather belt to force tension in the system to using a 4" brass door hinge as a lock. Luckily my work has a fully equipped machine shop and one of my good buddies there is always down to use the lathe, so I dive into the depths of the internet to try and find the schematics for the Harley-Davidson locking part. We find a rough description of it and get to sketching out a cad file. We get the thing machined out - unfortunately I didn't take any pictures of the process, and the only picture I have of the actual tool is in the background of this extremely blurry picture:
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1VksQltzV3aTgjQG9DRXYmA_Rvj0wieHl"><img src="https://drive.google.com/uc?export=view&id=1VksQltzV3aTgjQG9DRXYmA_Rvj0wieHl" style="width: 600px; max-width: 100%; height: auto" title="Blurry locking tool" /></a>
+</p>
+
+A bit of elbow grease later (actually I had to jump on the breaker bar to get the engine sproket nut to budge) and the sproket nuts are loose. Retainer pins come out, bolts holding the transmission are removed and the whole assembly is finally out.
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=view&id=1Vw-KBfnk-EyaUo5LlG_AhFeeuEkFMW4b"><img src="https://drive.google.com/uc?export=view&id=1Vw-KBfnk-EyaUo5LlG_AhFeeuEkFMW4b" style="width: 600px; max-width: 100%; height: auto" title="Primary finally removed." /></a>
+  <a href="https://drive.google.com/uc?export=view&id=1WCeBL8FNQ09vgrtqSHS_3BsNt0sCDEsd"><img src="https://drive.google.com/uc?export=view&id=1WCeBL8FNQ09vgrtqSHS_3BsNt0sCDEsd" style="width: 600px; max-width: 100%; height: auto" title="My 'shop'" /></a>
+</p>
+
+A quick inspection of the transmission assembly reveals that there is luckily no damage to the gears - and the majority of the chunks in the assembly are just congealed oil and crud which break apart when pinched. I run a magnet over the assembly and inside the primary and transmission case and collect very little thankfully. At this point I'm still waiting for my new spring to arrive so back to the shop I go with the primary assembly and transmission to give everything a proper cleaning before everything goes back together.
+
 ---
 
 **MORE TO COME**
