@@ -183,7 +183,7 @@ Once the transmission was back together, I put my tools away, cleaned myself up,
 This joy didn't last very long unfortunately... I was able to ride the bike to work twice before the _real_ problems started. On the second ride to work, it started backfiring on me at low RPM's when cruising, then I could barely get it to find an idle when firing it up for my ride home. I sat in the parking fiddling with the idle and mixture screws for a good half hour until I was able to get it to stay alive, but the bike ran progressively rougher the closer I got to home. The next morning I couldn't even get it out of the parkade - each time I tried to get moving it would backfire BAD, big blue flames out the exhaust and it sounded like a shotgun.  
 I parked the bike and spent a few days putting together a list of what could be wrong so I could start going through it. By this point riding season is well underway and the clock is ticking to get this headache back on the road.
 
---
+---
 
 <div id='id-section7'/>
 
@@ -191,7 +191,7 @@ I parked the bike and spent a few days putting together a list of what could be 
 Let's get to the easy stuff first - it's backfiring blue so that tells me the engine is running rich, so I could be getting too much fuel or I could be missing a spark. I check all my grounds and everything seems fine, so next step is to pull the plugs. They look like they've seen better days so off to the dealership I go _again_. New plugs are gapped and installed, new wires get seated, I hold my breath, and - no dice. Bike starts farting just like before.  
 Back to the drawing board
 
---
+---
 
 <div id='id-section8'/>
 
@@ -206,7 +206,7 @@ I drain the fuel tank and I'm absolutely not surprised to see the fuel full of l
 A quick peek into the gas tank reveals a similar story - the inside is looking pretty rusty:
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=view&id=1XGMk4gN3aLJVZduN_Cja5RPa2CzkeGfW"><img src="https://drive.google.com/uc?export=view&id=1XGMk4gN3aLJVZduN_Cja5RPa2CzkeGfW" style="width: 280px; max-width: 100%; height: auto" title="Rust in the tank" /></a>
+  <a href="https://drive.google.com/uc?export=view&id=1XGMk4gN3aLJVZduN_Cja5RPa2CzkeGfW"><img src="https://drive.google.com/uc?export=view&id=1XGMk4gN3aLJVZduN_Cja5RPa2CzkeGfW" style="width: 600px; max-width: 100%; height: auto" title="Rust in the tank" /></a>
 </p>
 
 I'm going to give anyone who's considering doing rust removal on the inside of their tank at home a word of warning - don't. It's difficult, incredibly dangerous, and for the cost of materials you can take your tank to a rad shop and they'll do it PROFESSIONALLY and also line the inside. Unfortunately future me didn't come stop past me from attempting this so I hit the forums, concocted a plan, made a shopping list, and began what I can easily classify as the single stupidest thing I've ever attempted.
@@ -243,10 +243,7 @@ It took me about 2 hours of mopping to get everything cleaned up, and since the 
 I don't think I've properly conveyed the panic I experienced during this whole ordeal - it was a Sunday afternoon, I was alone in the shop and I had no idea what sort of damage I was possibly causing to the plumbing and the shop floor, let alone myself (I was wearing old sneakers with holes in the bottom, my feet were drenched during this whole ordeal), but luckily no real harm was done. My boss pulled the security footage and posted it in one of the public Slack channels at work on Monday and everybody had a good laugh.  
 So at this point I had spent a ton of money on supplies, an entire Sunday cleaning up an HCl spill, and only succeeded in making the tank rustier, so I accepted defeat and called a local radiator shop. I dropped the tank off on Tuesday after work, and had it back in my hands the following Thursday at lunch. All the rust was removed, the interior was coated, and all in all that service cost less than what I had spent on supplies trying to do it myself. Lesson learned - sometimes it's better to leave it to the professionals.
 
-
 ---
-
-
 
 **MORE TO COME**
 
