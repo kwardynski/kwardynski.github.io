@@ -162,14 +162,13 @@ A bit of elbow grease later (actually I had to jump on the breaker bar to get th
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=view&id=1Vw-KBfnk-EyaUo5LlG_AhFeeuEkFMW4b"><img src="https://drive.google.com/uc?export=view&id=1Vw-KBfnk-EyaUo5LlG_AhFeeuEkFMW4b" style="width: 600px; max-width: 100%; height: auto" title="Primary finally removed" /></a>
-  <a href="https://drive.google.com/uc?export=view&id=1VxTD8cd2qExWA4tFAeSCwHykT9vo7egs"><img src="https://drive.google.com/uc?export=view&id=1VxTD8cd2qExWA4tFAeSCwHykT9vo7egs" style="width: 280px; max-width: 100%; height: auto" title="Transmission out." /></a>
   <a href="https://drive.google.com/uc?export=view&id=1WCeBL8FNQ09vgrtqSHS_3BsNt0sCDEsd"><img src="https://drive.google.com/uc?export=view&id=1WCeBL8FNQ09vgrtqSHS_3BsNt0sCDEsd" style="width: 600px; max-width: 100%; height: auto" title="My 'shop'" /></a>
 </p>
 
 A quick inspection of the transmission assembly reveals that there is luckily no damage to the gears - and the majority of the chunks in the assembly are just congealed oil and crud which break apart when pinched. I ran a magnet over the assembly and inside the primary and transmission case and collected very little particulate thankfully. At this point I'm still waiting for my new spring to arrive so back to the shop I go with the primary assembly and transmission to give everything a proper cleaning before everything goes back together.
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=view&id=1WF9LUBt_479tX8LtSz6-VMdl2bV7xQec"><img src="https://drive.google.com/uc?export=view&id=1WF9LUBt_479tX8LtSz6-VMdl2bV7xQec" style="width: 280px; max-width: 100%; height: auto" title="Squeaky clean" /></a>
+  <a href="https://drive.google.com/uc?export=view&id=1VxTD8cd2qExWA4tFAeSCwHykT9vo7egs"><img src="https://drive.google.com/uc?export=view&id=1VxTD8cd2qExWA4tFAeSCwHykT9vo7egs" style="width: 280px; max-width: 100%; height: auto" title="Transmission out." /></a> <a href="https://drive.google.com/uc?export=view&id=1WF9LUBt_479tX8LtSz6-VMdl2bV7xQec"><img src="https://drive.google.com/uc?export=view&id=1WF9LUBt_479tX8LtSz6-VMdl2bV7xQec" style="width: 280px; max-width: 100%; height: auto" title="Squeaky clean" /></a>
 </p>
 
 I don't have any pictures of the re-assembly, but what I will say here is if you don't have a service manual, get one - it makes re-assembly foolproof. You have to put the transmission back in gear and there's a very specific clearance you have to set for the shift detente plate with step by step instructions how to do it. Honestly the hardest part of the re-assembly was getting the clutch and engine sprockets back on together, getting the teeth lined up for both at the same time _then_ having them stay in place while I tightened the nuts was a pain in the ass. I found that leaning my bike to the right against a wall made it a lot easier. Removing and installing the clutch basket snap ring requires surgeon-steady hands - make sure you have proper snap-ring pliers to do this. Again, follow the FSM and you'll be fine.  
