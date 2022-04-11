@@ -18,8 +18,10 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Brain-Teasers:
-- [Project Euler](https://github.com/kwardynski/project_euler)  
 - [Daily Coding Problems](https://github.com/kwardynski/daily_coding_problems)  
+- [Leetcode](https://github.com/kwardynski/leetcode)
+- [Project Euler](https://github.com/kwardynski/project_euler)  
+
 
 ---
 #### Wrenching:
