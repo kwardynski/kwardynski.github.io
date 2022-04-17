@@ -21,6 +21,7 @@ author_profile: true
 - [A Quantum of Solace](#id-section6)
 - [Plugs and Wires](#id-section7)
 - [I Pity the Fuel](#id-section8)
+- [I'm Exhausted](#id-section9)
 
 ---
 
@@ -242,6 +243,14 @@ It took me about 2 hours of mopping to get everything cleaned up, and since the 
 I don't think I've properly conveyed the panic I experienced during this whole ordeal - it was a Sunday afternoon, I was alone in the shop and I had no idea what sort of damage I was possibly causing to the plumbing and the shop floor, let alone myself (I was wearing old sneakers with holes in the bottom, my feet were drenched during this whole ordeal), but luckily no real harm was done. My boss pulled the security footage and posted it in one of the public Slack channels at work on Monday and everybody had a good laugh.  
 So at this point I had spent a ton of money on supplies, an entire Sunday cleaning up an HCl spill, and only succeeded in making the tank rustier, so I accepted defeat and called a local radiator shop. I dropped the tank off on Tuesday after work, and had it back in my hands the following Thursday at lunch. All the rust was removed, the interior was coated, and all in all that service cost less than what I had spent on supplies trying to do it myself. Lesson learned - sometimes it's better to leave it to the professionals.  
 I got the tank back on, mounted the carburetor, hooked up the fuel lines and throttle cables, then sent up a little prayer. Deep down I knew this wasn't going to solve my backfire, but a boy can dream. I fired the bike back up and was immediately brought back down to reality - the backfire was still there...
+
+---
+
+<div id='id-section9'/>
+
+## I'm Exhausted
+Perhaps the backfire is a vaccuum or exhaust leak, so I get a spray bottle, fill it with soapy water, spray down the bike and fire it up. I let it idle for a few minutes while listening for any hissing and looking for any bubbling, there might be a bit coming from the front cylinder's exhaust so off we go to the dealership to get some new gaskets. At this point I'm skeptical this is going to solve my problems but I'm approaching the end of my patience and mechanical aptitude.  
+Exhaust comes off easy, and the front gasket is basically non-existant at this point - not surprising since most of the modifications on this bike are of questionable execution. New gaskets go in and so begins the 2 hour wrestling match with the pipes to get everything lined up and torqued in. Not surprisingly the backfire is still there, just not as bad. I figure I'll mess with the mixture and idle screws a bit since I've got my tools with me and I make _some_ progress but not nearly enough to claim my issue is resolved. At this point I'm over wrenching in the corner of the parkade, I just want to ride - so I make the call to the dealer and schedule a service appointment...
 
 ---
 
