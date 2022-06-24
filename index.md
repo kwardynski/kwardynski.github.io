@@ -13,8 +13,9 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Textbook Solutions:
-- [Programming Elixir 1.3](https://github.com/kwardynski/textbook_problems_elixir_programming_elixir_1.3)
-- [Accelerated C++ Practical Programming by Example](https://github.com/kwardynski/textbook_problems_cpp_accelerated_cpp)
+- [Elixir In Action](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir%20-%20Elixir%20in%20Action%20Second%20Edition)
+- [Programming Elixir 1.3](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir%20-%20Programming%20Elixir%201.3)
+- [Accelerated C++ Practical Programming by Example](https://github.com/kwardynski/textbook_solutions/tree/main/C%2B%2B%20-%20Accelerated%20C%2B%2B)
 
 ---
 #### Brain-Teasers:
