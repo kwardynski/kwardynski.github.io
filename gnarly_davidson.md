@@ -22,6 +22,9 @@ author_profile: true
 - [Plugs and Wires](#id-section7)
 - [I Pity the Fuel](#id-section8)
 - [I'm Exhausted](#id-section9)
+- [Bad Head](#id-section10)
+- [I'm Going Through Changes](#id-section10)
+- [Dirty Deeds - Done Dirt Cheap](#id-section10)
 
 ---
 
@@ -254,4 +257,33 @@ Exhaust comes off easy, and the front gasket is basically non-existant at this p
 
 ---
 
+<div id='id-section10'/>
+
+## Bad Head
+Bike gets dropped off at the dealership for some service - at this point I'm hoping for the best, but as with all things related to this bike, I'm expecting the worst. My fears are very soon confirmed when the service tech calls to inform me that cylinder 2 has basically zero compression due to a dropped exhaust valve... Luckily it did not make contact with the piston so off the heads to go get a new set of valves seated. 3 weeks and almost $2,000 later I finally get the bike back and it's running like a dream, just in time for the last few weeks of summer.
+
+---
+
+<div id='id-section11'/>
+
+## I'm Going Through Changes
+Over the 3 weeks while the bike was in the shop, I ended up taking a new job in Calgary and would be moving back home in December so some schemes need to be hatched. Since I wouldn't be able to (easily) get the bike to a shop for an out of province inspection during the winter (and I _especially_ don't want to leave an un-registered and un-insured motorcycle just sitting in a downtown parkade), I figure it would be best to leave the bike in mom's garage, which is conveniently located at the halfway point between Vancouver and Calgary. Luckily, 2 weeks before our move her partner had to make a trip out to Vancouver and he kindly agreed to help load up my bike into his truck and take it back with him.  
+The long winter months pass and it's time to get the bike out to Calgary. Again I get hit with a stroke of luck - the mover who helped us with the initial trip from Vancouver to Calgary would be going through interior B.C. and out to Calgary with some extra space in his trailer so he loads up my bike and brings it over the night before my inspection is scheduled.  
+The next morning, a coworker shows up at my place bright and early with his trailer, we load up the bike and get it out to the shop. They run through the checklist and find (unsurprisingly) that the bike needs new tires in order to pass inspection. New rubber gets ordered, and I figure while they're at it and have the wheels off, now would be a great time to replace the very squeaky rear wheel bearing and replace the brake pads which have about 1 season left in them.  
+Paperwork is done, bike is in running order, insurance and registration get purchased and now it's time to start Sportster Summer, at least that's what I thought...
+
+---
+
+<div id='id-section11'/>
+
+## Dirty Deeds - Done Dirt Cheap
+It's a beautiful Wednesday morning, the sun is just peeking over the horizon and lovely birdsong fills the air - a perfect opportunity to ride to work. I pack my bags, grab my gear and head down to the parkade only to notice my motorcyle is not where I left it... It's been stolen.  
+I call the police to report my bike stolen, call my insurance company to start a claim, and call work telling them I'm going to be late since I now have this nightmare to deal with. I spend the next **!!THREE!!** weeks battling back and forth with my absolutely useless condo management company ([Catalyst Condo Management](https://www.catalystcondos.com/) for anyone interested, Dustin and Raelyn specifically you want a master class in ignoring emails, voicemails, and deflecting questions) to try and get some security footage of the theft so I can hand it over to the police. They _finally_ manage to show a bit of urgency and get me some footage which shows a guy that looks suspiciously like me enter the parkade at 4 am, hotwire my bike, and ride it out at 4:50. I pass the footage along to the police and cross my fingers hoping that they're able to, at the very least, find the guy who stole it - but at this point I'm fully convinced the bike had been torn apart the morning it was stolen and being sold for parts in another province.  
+A few weeks go by and my phone rings with a restricted number, I pick it up and the voice on the other line introduces himself as a member of the RCMP out in Drumheller - he says the found my bike. It was recovered during a [raid on a **meth** compound just outside the city limits](https://calgary.ctvnews.ca/stolen-vehicles-meth-seized-in-raid-on-morrin-alta-residence-1.6028186) and the guy they arrested was in the process of attempting to re-VIN the bike. The officer said as far as he can tell the bike runs, however they had taken off the fairing and exhaust wrap, re-painted the tank and fenders, changed out the air filter cover, and removed the front turn signals and mirrors from the bike. They need another week or two to process the evidence and they would release the bike to me. Honestly at point if the bike is complete (complete enough to ride) and runs I'll be thanking my lucky start and taking this as a win.  
+
+
+
+
+---
+---
 **MORE TO COME**
