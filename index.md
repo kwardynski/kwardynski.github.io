@@ -26,4 +26,5 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Wrenching:
+- ['84 Ford Mustang 5.0 Convertible](https://kwardynski.github.io/wrenching/crustang/)
 - ['94 Harley-Davidson Sportster](https://kwardynski.github.io/wrenching/gnarly-davidson/)  
