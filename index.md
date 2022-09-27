@@ -3,18 +3,20 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I'm a reformed Bartender turned Software Developer with an appetite for broken old American vehicles.\
+I'm a reformed Bartender turned Software Developer with a love for broken, rusty old American vehicles.\
 Here are some things I like to spend my free time on:
 
 ---
 #### Projects:
 - [Inky pHat Pi-hole Display](https://github.com/kwardynski/pihole_with_inkyphat_display) - Raspberry Pi / Python
+- [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - Arduino (for now)
 - [Beard Fidgeting Monitor](https://github.com/kwardynski/beard_fidget_monitor) - Raspberry Pi
 
 ---
-#### Textbook Solutions:
+#### Textbook Notes/Solutions:
 - [Elixir In Action](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir%20-%20Elixir%20in%20Action%20Second%20Edition)
 - [Programming Elixir 1.3](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir%20-%20Programming%20Elixir%201.3)
+- [Programming Phoenix 1.4](https://github.com/kwardynski/textbook_solutions/tree/main/Phoenix%20-%20Programming%20Phoenix%201.4)
 - [Accelerated C++ Practical Programming by Example](https://github.com/kwardynski/textbook_solutions/tree/main/C%2B%2B%20-%20Accelerated%20C%2B%2B)
 
 ---
