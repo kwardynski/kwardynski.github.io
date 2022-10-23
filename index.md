@@ -9,7 +9,6 @@ Here are some things I like to spend my free time on:
 ---
 #### Projects:
 - [Beard Fidgeting Monitor](https://github.com/kwardynski/beard_fidget_monitor) - Raspberry Pi
-- [IceBox Freezer Inventory Application](https://github.com/kwardynski/ice_box) - Elixir + Phoenix + PostgreSQL
 - [Inky pHat Pi-hole Display](https://github.com/kwardynski/pihole_with_inkyphat_display) - Raspberry Pi / Python
 - [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - Arduino (for now)
 
