@@ -15,10 +15,12 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Textbook Notes/Solutions:
+- [Accelerated C++ Practical Programming by Example](https://github.com/kwardynski/textbook_solutions/tree/main/C%2B%2B%20-%20Accelerated%20C%2B%2B)
+- [Functional Web Development with Elixir, OTP, and Phoenix](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir+Phoenix%20-%20Functional%20Web%20Development%20with%20Elixir,%20OTP,%20and%20Phoenix)
 - [Elixir In Action](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir%20-%20Elixir%20in%20Action%20Second%20Edition)
 - [Programming Elixir 1.3](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir%20-%20Programming%20Elixir%201.3)
 - [Programming Phoenix 1.4](https://github.com/kwardynski/textbook_solutions/tree/main/Phoenix%20-%20Programming%20Phoenix%201.4)
-- [Accelerated C++ Practical Programming by Example](https://github.com/kwardynski/textbook_solutions/tree/main/C%2B%2B%20-%20Accelerated%20C%2B%2B)
+
 
 ---
 #### Brain-Teasers:
