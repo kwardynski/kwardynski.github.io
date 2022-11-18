@@ -8,9 +8,11 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Projects:
+- [Arcade Classics Remixed](https://github.com/kwardynski/arcade_classics_remixed) - A compilation of classic arcade games, made worse. Elixir + Phoenix
+    - [Dong](https://github.com/kwardynski/arcade_classics_remixed/tree/main/dong) - Like Pong except the ball bounces randomly and you score by letting it pass _through_ your paddle
 - [Beard Fidgeting Monitor](https://github.com/kwardynski/beard_fidget_monitor) - Raspberry Pi
 - [Inky pHat Pi-hole Display](https://github.com/kwardynski/pihole_with_inkyphat_display) - Raspberry Pi / Python
-- [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - Arduino (for now)
+- [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - A simple touchscreen project to keep track of how many treats we give our cat. Arduino
 
 
 ---
