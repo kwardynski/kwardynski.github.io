@@ -13,7 +13,7 @@ Here are some things I like to spend my free time on:
 - [Beard Fidgeting Monitor](https://github.com/kwardynski/beard_fidget_monitor) - Raspberry Pi
 - [Inky pHat Pi-hole Display](https://github.com/kwardynski/pihole_with_inkyphat_display) - Raspberry Pi / Python
 - [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - A simple touchscreen project to keep track of how many treats we give our cat. Arduino
-
+- [Whack-a-Mole](https://github.com/kwardynski/whack_a_mole) - Arduino based "Whack-a-Mole" style game to keep our cat entertained.
 
 ---
 #### Textbook Notes/Solutions:
@@ -23,13 +23,11 @@ Here are some things I like to spend my free time on:
 - [Programming Elixir 1.3](https://github.com/kwardynski/textbook_solutions/tree/main/Elixir%20-%20Programming%20Elixir%201.3)
 - [Programming Phoenix 1.4](https://github.com/kwardynski/textbook_solutions/tree/main/Phoenix%20-%20Programming%20Phoenix%201.4)
 
-
 ---
 #### Brain-Teasers:
 - [Daily Coding Problems](https://github.com/kwardynski/daily_coding_problems)  
 - [Leetcode](https://github.com/kwardynski/leetcode)
 - [Project Euler](https://github.com/kwardynski/project_euler)  
-
 
 ---
 #### Wrenching:
