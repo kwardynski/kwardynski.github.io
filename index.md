@@ -4,6 +4,8 @@ excerpt: "About Me..."
 ---
 
 I'm a reformed Bartender turned Software Developer with a love for broken, rusty old American vehicles.\
+My favorite languages are Elixir, C++ and 😍 MATLAB 😍. 
+
 Here are some things I like to spend my free time on:
 
 ---
