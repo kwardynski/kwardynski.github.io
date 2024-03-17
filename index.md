@@ -10,7 +10,7 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Projects:
-- [Arcade Classics Remixed] A compilation of classic arcade games, made worse. Elixir + Phoenix
+- Arcade Classics Remixed: A compilation of classic arcade games, made worse. Elixir + Phoenix
     - [Tric-Tac-Toe](https://github.com/kwardynski/trick_tac_toe) - Like the classic tic-tac-toe game, except there's a 20% chance you'll place your opponent's marker. Elixir / Phoenix LiveView.
 - [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - A simple touchscreen project to keep track of how many treats we give our cat. Arduino.
 - [Inky pHat Pi-hole Display](https://github.com/kwardynski/pihole_with_inkyphat_display) - Raspberry Pi / Python
