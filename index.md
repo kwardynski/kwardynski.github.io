@@ -10,12 +10,10 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Projects:
-- [Arcade Classics Remixed](https://github.com/kwardynski/arcade_classics_remixed) - A compilation of classic arcade games, made worse. Elixir + Phoenix
-    - [Dong](https://github.com/kwardynski/arcade_classics_remixed/tree/main/dong) - Like Pong except the ball bounces randomly and you score by letting it pass _through_ your paddle
-    - [Tric-Tac-Toe](https://github.com/kwardynski/arcade_classics_remixed/tree/main/trick_tac_toe) - Like the classic tic-tac-toe game, except you don't know if you're getting an "X" or an "O" when you choose your square
-- [Beard Fidgeting Monitor](https://github.com/kwardynski/beard_fidget_monitor) - Raspberry Pi
+- [Arcade Classics Remixed] A compilation of classic arcade games, made worse. Elixir + Phoenix
+    - [Tric-Tac-Toe](https://github.com/kwardynski/trick_tac_toe) - Like the classic tic-tac-toe game, except there's a 20% chance you'll place your opponent's marker. Elixir / Phoenix LiveView.
+- [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - A simple touchscreen project to keep track of how many treats we give our cat. Arduino.
 - [Inky pHat Pi-hole Display](https://github.com/kwardynski/pihole_with_inkyphat_display) - Raspberry Pi / Python
-- [Simple Treats Tracker](https://github.com/kwardynski/simple_treat_tracker) - A simple touchscreen project to keep track of how many treats we give our cat. Arduino
 - [Whack-a-Mole](https://github.com/kwardynski/whack_a_mole) - Arduino based "Whack-a-Mole" style game to keep our cat entertained.
 
 ---
