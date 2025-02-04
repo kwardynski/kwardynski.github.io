@@ -29,12 +29,13 @@ I tried to remove the pin as delicately as I could, but the damage had already b
 I did what every reasonable home mechanic would do, and went back to Canadian Tire to pick up some JB Weld. I gave it 3 good tries with no luck and I'm not even going to bother putting up the pictures. After giving up on this idea, I called around a few local shops to try and find a replacement and they all pointed me in the direction of a small shop in the next town over. I left the owner a voicemail and he called me back the next day with some good news - he had a shop full of these things and was actually asking a reasonable price for them! I picked one up the next day, tore it down to give it a good scrub, cleaned the remaining parts of my old one, then assembled a franken-carb from the best components of the two. While I was at it, I replaced the cheap (and cracked) fuel inlet elbow with a brass one I had ordered from Fortnine.
 
 <p align="center">
-    <img src="../images/harley_blog/fixing_the_leaking_carburetor/carb_cleaning.jpg" alt="Bathtime!" width="45%"/>
+    <img src="../images/harley_blog/fixing_the_leaking_carburetor/carb_cleaning.jpg" alt="Bathtime!" width="65%"/>
 </p>
 
-| | |
-| -| - |
-| <p align="right"><img src="../images/harley_blog/fixing_the_leaking_carburetor/inlet_elbow.jpg" alt="New inlet elbow" width="45%"/></p> | <p align="left"><img src="../images/harley_blog/fixing_the_leaking_carburetor/complete.jpg" alt="All done" width="45%"/></p> |
+<p align="center">
+    <img src="../images/harley_blog/fixing_the_leaking_carburetor/inlet_elbow.jpg" alt="New inlet elbow" width="32.5%"/>
+    <img src="../images/harley_blog/fixing_the_leaking_carburetor/complete.jpg" alt="All done" width="32.5%"/>
+</p>
 
 
 While I was cleaning the jets, I noticed the original carb had a 40 pilot and 170 main jet, which I'm pretty sure is the jetting for the stock 883 motor and _definitely_ not big enough for the 1200, especially at sea level. Luckily the replacement carburetor had a 45 pilot and 180 main so I swapped those in, set the float level, put the whole thing back together and installed it back on the bike. 
