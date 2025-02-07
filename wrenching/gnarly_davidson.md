@@ -4,6 +4,13 @@ title: Gnarly Davidson "Adventures"
 author_profile: true
 ---
 
+This page is _slowly_ being chopped up into bite-sized blog posts:
+
+- [Intro](/blog/2022-03-08-i-bought-a-motorcycle.md)
+- [Fixing the leaky carburetor](/blog/2022-03-12-fixing-the-leaking-carburetor.md)
+
+---
+
 ## A deep dive into financial ruin and borderline insanity
 <a href="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N"><img src="https://drive.google.com/uc?export=view&id=1Z2N4RC_CaH1zNWSD7IgSj7XejPE8nY_N" style="width: 320px; max-width: 100%; height: auto" title="Sleaze Disease." /></a>
 
