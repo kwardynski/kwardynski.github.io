@@ -6,8 +6,8 @@ author_profile: true
 
 This page is _slowly_ being chopped up into bite-sized blog posts:
 
-- [Intro](/blog/2022-03-08-i-bought-a-motorcycle.md)
-- [Fixing the leaky carburetor](/blog/2022-03-12-fixing-the-leaking-carburetor.md)
+- [Intro](/blog/i-bought-a-motorcycle)
+- [Fixing the leaky carburetor](/blog/fixing-the-leaking-carburetor)
 
 ---
 
