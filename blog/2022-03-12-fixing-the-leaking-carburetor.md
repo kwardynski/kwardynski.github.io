@@ -41,10 +41,3 @@ I did what every reasonable home mechanic would do, and went back to Canadian Ti
 While I was cleaning the jets, I noticed the original carb had a 40 pilot and 170 main jet, which I'm pretty sure is the jetting for the stock 883 motor and _definitely_ not big enough for the 1200, especially at sea level. Luckily the replacement carburetor had a 45 pilot and 180 main so I swapped those in, set the float level, put the whole thing back together and installed it back on the bike. 
 
 I opened the petcock and let it sit for 10 minutes, luckily there was no more fuel leaking from the overflow hose! I cranked it over and it idled like a peach. After all was said and done, this carburetor fiasco took me almost two weeks to get sorted... Not a great start.
-
-
-
-
-
-
-
