@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I'm a reformed Bartender turned Software Developer, my favorite languages are Elixir, C++ and 😍 MATLAB 😍. 
+I'm a reformed Bartender turned Software Developer. My favorite languages are Elixir, C++ and 😍 MATLAB 😍. 
 
 I also organize the Calgary Elixir Meetup:
 - [Meetup](https://www.meetup.com/elixir-calgary/)
