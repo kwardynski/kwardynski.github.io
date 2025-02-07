@@ -19,5 +19,5 @@ Here are some things I like to spend my free time on:
 
 ---
 #### Wrenching:
-- ['84 Ford Mustang 5.0 Convertible](wrenching/crustang.md)
 - ['94 Harley-Davidson Sportster](wrenching/gnarly_davidson.md)  
+- ['84 Ford Mustang 5.0 Convertible](wrenching/crustang.md)
